@@ -7,7 +7,7 @@
 
 - 💬 Ask me about **Full Stack Development**
 
-- 📫 How to reach me **afrinshaik518@gmail.com**
+- 📫 How to reach me **afushaik30@gmail.com**
 
 - ⚡ Fun fact **Undefined is not a function=Coder's daily nightmare**
 
